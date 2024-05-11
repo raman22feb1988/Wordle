@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="resume">Continue</string>
+    <string name="restart">New</string>
+</resources>
